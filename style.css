@@ -263,10 +263,11 @@ section .main .button:hover i{
 .products .box .card .products_text h2{
     font-size: 30px;
     margin-top: 15px;
+    color: #D91656;
 }
 
 .products .box .card .products_text p{
-    color: #91919191;
+    color: black;
     line-height: 21px;
     margin: 8px 0;
 }
